@@ -1,8 +1,11 @@
 ---
 title: "Workshop Recording: Introduction to Data Visualization Using Tableau Desktop (Nov. 24, 2021)"
 layout: "home"
-description: ""
+description: "This page provides a video recording of an introductory workshop on using Tableau Desktop for data visualization."
 permalink: "/"  #! Remove this if not the homepage
+staff:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
 ---
 
 # Workshop Recording: Introduction to Data Visualization Using Tableau Desktop (Nov. 24, 2021)
@@ -26,6 +29,8 @@ For more information on Data Visualization and services offered by the libraries
 
 Salesforce provides a free license for Tableau Desktop for current students and faculty for teaching and non\-commercial academic research. For information, visit our [guide](https://mdl.library.utoronto.ca/technology/tutorials/installing-tableau-desktop).
 
-[**Recording \- 56:27**](https://play.library.utoronto.ca/watch/64a7d6acdd959360749a308b094897c7)**\&** [**Setup Instructions**](https://maps.library.utoronto.ca/workshops/Tableau1hrOnline/SetupInstructions.pdf)**(includes how to get slides, workshop files, handouts, etc.)**
+[**Recording \- 56:27**](https://play.library.utoronto.ca/watch/64a7d6acdd959360749a308b094897c7) **&** [**Setup Instructions**](https://maps.library.utoronto.ca/workshops/Tableau1hrOnline/SetupInstructions.pdf) **(includes how to get slides, workshop files, handouts, etc.)**
 
-Technique: [Data Visualization](/technique/data-visualization) \| Tools: [Tableau](/tools/tableau)**Date Created:** 2025\-01\-28**Updated:** 2025\-02\-10
+Technique: [Data Visualization](/technique/data-visualization) \| Tools: [Tableau](/tools/tableau)
+
+**Date Created:** 2025\-01\-28 **Updated:** 2025\-02\-10
