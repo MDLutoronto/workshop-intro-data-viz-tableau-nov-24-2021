@@ -24,7 +24,7 @@ Through a combination of lecture and demonstrations, this **1.5-hour workshop** 
 
 This workshop is designed for those new to data visualization and Tableau Desktop. There are no prerequisites or assumptions of knowledge of math, statistics, or programming.
 
-This is a short, introductory workshop. If you would like to learn more about data visualization, you are encouraged to self\-enroll in our longer, online, self\-paced workshops:
+This is a short, introductory workshop. If you would like to learn more about data visualization, you are encouraged to self-enroll in our longer, online, self-paced workshops:
 
 * [Data Visualization - An Introduction (Part 1 – Theory and Critique)](https://q.utoronto.ca/enroll/DC8HHW)
 * [Data Visualization - An Introduction (Part 2 – Practice with Tableau)](https://q.utoronto.ca/enroll/WTYPDT)
