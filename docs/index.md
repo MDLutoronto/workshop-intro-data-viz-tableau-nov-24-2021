@@ -4,11 +4,11 @@ layout: "home"
 description: "This page provides a video recording of an introductory workshop on using Tableau Desktop for data visualization."
 permalink: "/"  #! Remove this if not the homepage
 staff:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
 maintainer:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
 created_date: 2025-01-28
 ---
 
@@ -31,7 +31,7 @@ This is a short, introductory workshop. If you would like to learn more about da
 
 For more information on Data Visualization and services offered by the libraries, see our [Data Visualization Guide](https://mdl.library.utoronto.ca/dataviz/getting-started).
 
-Salesforce provides a free license for Tableau Desktop for current students and faculty for teaching and non-commercial academic research. For information, visit our [guide](https://mdl.library.utoronto.ca/technology/tutorials/installing-tableau-desktop).
+Salesforce provides a free license for Tableau Desktop for current students and faculty for teaching and non-commercial academic research. For information, visit our [guide](https://mdlutoronto.github.io/tableau-install/).
 
 [**Recording - 56:27**](https://play.library.utoronto.ca/watch/64a7d6acdd959360749a308b094897c7)
 
@@ -39,5 +39,5 @@ Salesforce provides a free license for Tableau Desktop for current students and 
 
 [**Setup Instructions**](https://maps.library.utoronto.ca/workshops/Tableau1hrOnline/SetupInstructions.pdf) **(includes how to get slides, workshop files, handouts, etc.)**
 
-**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) | **Tools:** [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)
 
