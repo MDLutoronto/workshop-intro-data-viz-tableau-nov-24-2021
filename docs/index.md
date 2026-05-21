@@ -34,6 +34,6 @@ Salesforce provides a free license for Tableau Desktop for current students and 
 
 [**Recording \- 56:27**](https://play.library.utoronto.ca/watch/64a7d6acdd959360749a308b094897c7) **&** [**Setup Instructions**](https://maps.library.utoronto.ca/workshops/Tableau1hrOnline/SetupInstructions.pdf) **(includes how to get slides, workshop files, handouts, etc.)**
 
-Technique: [Data Visualization](/technique/data-visualization) \| Tools: [Tableau](/tools/tableau)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Tableau](https://mdlutoronto.github.io/tutorials-search/?tool=Tableau)
 
 **Date Created:** 2025\-01\-28 **Updated:** 2025\-02\-10
