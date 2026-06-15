@@ -33,9 +33,9 @@ For more information on Data Visualization and services offered by the libraries
 
 Note: Salesforce, unfortunately, no longer provides a free license for Tableau Desktop for current students and faculty for teaching and non-commercial academic research anymore. Instead you would need to purchase Tableau Desktop, if you'd like to use it. Or you can look at our [workshop recording](https://mdlutoronto.github.io/workshop-recording-intro-tableau-public/) using the free version of Tableau, [Tableau Public](https://www.tableau.com/products/public/download), instead.
 
-[**Recording - 56:27**](https://play.library.utoronto.ca/watch/64a7d6acdd959360749a308b094897c7)
+**[Recording - 56:27](https://play.library.utoronto.ca/watch/64a7d6acdd959360749a308b094897c7)**
 
-<iframe width="560" height="315" src="https://play.library.utoronto.ca/watch/64a7d6acdd959360749a308b094897c7" frameborder="0" allowfullscreen=""> iframe not supported </iframe>
+<iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/64a7d6acdd959360749a308b094897c7" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
 [**Setup Instructions**](https://maps.library.utoronto.ca/workshops/Tableau1hrOnline/SetupInstructions.pdf) **(includes how to get slides, workshop files, handouts, etc.)**
 
