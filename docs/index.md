@@ -20,7 +20,7 @@ This page provides a video recording of an introductory workshop on using Tablea
 
 Data visualization gives us a better understanding of our data and helps us communicate that to others. It has the potential to generate insights, communicate findings, and illustrate evidence. Conversely, a poor visualization can undermine an argument or even mislead the reader.
 
-Through a combination of lecture and demonstrations, this **1.5-hour workshop** will introduce you to data visualization using a common data visualization tool, [Tableau Desktop](https://www.tableau.com/products/desktop). Participants will create visualizations such as a bar graphs, line graphs, and scatter plots.
+Through a combination of lecture and demonstrations, this 1.5-hour workshop will introduce you to data visualization using a common data visualization tool, [Tableau Desktop](https://www.tableau.com/products/desktop). Participants will create visualizations such as a bar graphs, line graphs, and scatter plots.
 
 This workshop is designed for those new to data visualization and Tableau Desktop. There are no prerequisites or assumptions of knowledge of math, statistics, or programming.
 
@@ -31,11 +31,11 @@ This is a short, introductory workshop. If you would like to learn more about da
 
 For more information on Data Visualization and services offered by the libraries, see our [Data Visualization Guide](https://mdl.library.utoronto.ca/dataviz/getting-started).
 
-Salesforce provides a free license for Tableau Desktop for current students and faculty for teaching and non-commercial academic research. For information, visit our [guide](https://mdlutoronto.github.io/tableau-install/).
+Note: Salesforce, unfortunately, no longer provides a free license for Tableau Desktop for current students and faculty for teaching and non-commercial academic research anymore. Instead you would need to purchase Tableau Desktop, if you'd like to use it. Or you can look at our [workshop recording](https://mdlutoronto.github.io/workshop-recording-intro-tableau-public/) using the free version of Tableau, [Tableau Public](https://www.tableau.com/products/public/download), instead.
 
 [**Recording - 56:27**](https://play.library.utoronto.ca/watch/64a7d6acdd959360749a308b094897c7)
 
-<iframe width="560" height="315" src="https://play.library.utoronto.ca/watch/64a7d6acdd959360749a308b094897c7" frameborder="0" allowfullscreen> iframe not supported </iframe>
+<iframe width="560" height="315" src="https://play.library.utoronto.ca/watch/64a7d6acdd959360749a308b094897c7" frameborder="0" allowfullscreen=""> iframe not supported </iframe>
 
 [**Setup Instructions**](https://maps.library.utoronto.ca/workshops/Tableau1hrOnline/SetupInstructions.pdf) **(includes how to get slides, workshop files, handouts, etc.)**
 
