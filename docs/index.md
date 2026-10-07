@@ -29,7 +29,7 @@ This is a short, introductory workshop. If you would like to learn more about da
 * [Data Visualization - An Introduction (Part 1 – Theory and Critique)](https://q.utoronto.ca/enroll/DC8HHW)
 * [Data Visualization - An Introduction (Part 2 – Practice with Tableau)](https://q.utoronto.ca/enroll/WTYPDT)
 
-For more information on Data Visualization and services offered by the libraries, see our [Data Visualization Guide](https://faq.library.utoronto.ca/faq/where-can-i-find-computers-gis-software?_gl=1*2geh3u*_ga*MjE0MTczMTE2LjE3OTEzODI2MDE.*_ga_N97V7GPQQJ*czE3OTEzODI2MDEkbzEkZzEkdDE3OTEzOTcyMjkkajUzJGwwJGgw).
+For more information on Data Visualization and services offered by the libraries, see our [Data Visualization Guide](https://library.utoronto.ca/use/service/data-cleaning-analysis-and-visualization).
 
 Note: Salesforce, unfortunately, no longer provides a free license for Tableau Desktop for current students and faculty for teaching and non-commercial academic research anymore. Instead you would need to purchase Tableau Desktop, if you'd like to use it. Or you can look at our [workshop recording](https://mdlutoronto.github.io/workshop-recording-intro-tableau-public/) using the free version of Tableau, [Tableau Public](https://www.tableau.com/products/public/download), instead.
 
